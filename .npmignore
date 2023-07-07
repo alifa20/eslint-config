@@ -1,0 +1,6 @@
+.husky
+.lintstagedrc.json
+.prettierrc.json
+.versionrc.json
+CHANGELOG.md
+.github
